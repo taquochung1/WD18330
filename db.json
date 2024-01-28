@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id":"1",
+            "name":"bánh ngọt",
+            "price":100000
+        },
+        {
+            "id":"2",
+            "name":"bánh mặn",
+            "price":200000
+        },
+        {
+            "id":"3",
+            "name":"bánh mì",
+            "price":5000
+        },
+        {
+            "id":"4",
+            "name":"bánh bao",
+            "price":10000
+        },
+        {
+            "id":"5",
+            "name":"bánh rán",
+            "price":10000
+        }
+    ]
+}
